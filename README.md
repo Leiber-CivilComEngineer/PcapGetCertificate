@@ -21,7 +21,6 @@ This is the Env that is used to develop this program. Different versions of the 
 * **gcc version 9.4.0 (Ubuntu 9.4.0-1ubuntu1~20.04.1)** 
 
 
-
 ## Build and Run the project
 
 To build the project, all you need to do, ***after correctly
@@ -37,8 +36,6 @@ g++ get_certificates.cpp -o get_certificates
 ## Resulting Certificates
 
 After the program finishes running, all the certificates obtained will be saved in DER format within the "./certificates" folder.
-
-<img src="/Users/leiber/Library/Application Support/typora-user-images/image-20230721164020803.png" alt="image-20230721164020803" style="zoom: 67%;" />
 
 ## Contributing
 
